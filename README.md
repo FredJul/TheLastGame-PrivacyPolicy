@@ -1,6 +1,6 @@
 # The Last Game
 
-<img src="https://lh3.googleusercontent.com/pbrgTe0CvBkoIbq-sskyVu6NyqGJz9JXCBf7ZK79_t2RLAt7akkyY8F5KgVa6bFCZYI=h600-rw"/>
+![](banner_with_title.png)
 
 ## Contact and Assistance
 Please write to [thelastgame@icloud.com](mailto:thelastgame@icloud.com) or create a ticket [here](https://github.com/FredJul/TheLastGame-Support/issues/new) for any bug report or suggestion.
