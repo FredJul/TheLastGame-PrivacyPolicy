@@ -1,5 +1,3 @@
-# The Last Game
-
 ![](banner_with_title.png)
 
 ## Contact and Assistance
